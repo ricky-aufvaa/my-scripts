@@ -1,0 +1,20 @@
+alacritty
+repos
+scripts
+code
+volume.py
+mechvibes_custom
+testing
+volume.sh
+VS\ code
+pix
+zsh-syntax-highlighting
+.bashrc
+.cache
+.config
+.fonts
+.mozilla
+.oh-my-zsh
+.vim
+.vimrc
+.zshrc
